@@ -1,4 +1,3 @@
-baseURL = "https://blog.swebert.xyz/"
 languageCode = "en-us"
 
 theme = "terminal"
